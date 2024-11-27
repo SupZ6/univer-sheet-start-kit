@@ -8,6 +8,7 @@ This template can help you get started with using the Univer API, and you can us
 - [x] get range value
 - [x] set range values
 - [x] get range values
+- [?] set workbook data
 - [x] get workbook data
 - [x] get worksheet data
 - [x] create worksheet

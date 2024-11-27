@@ -1,7 +1,7 @@
 {
   "name": "univer-sheet-start-kit",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@9.14.2",
   "description": "A starter kit for Univer Sheet",
