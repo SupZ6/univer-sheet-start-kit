@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "eslint.useFlatConfig": true,
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": false,
+  "eslint.validate": ["html", "css", "scss", "json", "jsonc"],
+  "prettier.enable": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "vue.server.hybridMode": true
+}

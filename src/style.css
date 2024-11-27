@@ -6,22 +6,19 @@ body {
   overflow: hidden;
 }
 
-:root {
-  --toolbar-height: 100px;
-}
-
 #app {
+  display: flex;
+  flex-direction: column;
   height: 100%;
-  padding: 24px;
   box-sizing: border-box;
 }
 
 #toolbar {
-  height: var(--toolbar-height);
+  background: #f1f1f1;
   display: flex;
-  gap: 0.5rem 1rem;
+  gap: 10px 10px;
   flex-wrap: wrap;
-  overflow: auto;
+  padding: 10px;
 }
 #toolbar a {
   height: 28px;
@@ -41,6 +38,6 @@ body {
 }
 
 #univer {
-  height: calc(100% - var(--toolbar-height));
-  border: 1px solid #ececec;
+  flex: 1;
+  border-top: 1px solid #ececec;
 }

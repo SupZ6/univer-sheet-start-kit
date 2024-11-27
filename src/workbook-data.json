@@ -1,0 +1,590 @@
+{
+  "id": "oUk1IK",
+  "sheetOrder": ["xKIL5ygR-S9X7nducBulJ"],
+  "name": "",
+  "appVersion": "0.5.0",
+  "locale": "zhCN",
+  "styles": {
+    "BJSDi8": {
+      "bg": {
+        "rgb": "#274fee"
+      }
+    },
+    "7CqcQp": {
+      "bg": {
+        "rgb": "#F7FDE8"
+      },
+      "bd": {
+        "l": null,
+        "b": null,
+        "t": null,
+        "r": null
+      }
+    },
+    "3ktXX9": {
+      "bd": {
+        "r": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "b": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "t": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "l": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        }
+      }
+    },
+    "tdsk97": {
+      "bg": {
+        "rgb": "#F7FDE8"
+      },
+      "bd": {
+        "l": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "b": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "t": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "r": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        }
+      }
+    },
+    "gwK2eL": {
+      "bd": {
+        "b": null,
+        "t": null,
+        "l": null
+      }
+    },
+    "AY-ZNR": {
+      "bg": {
+        "rgb": "#F7FDE8"
+      },
+      "bd": {
+        "b": null,
+        "t": null
+      }
+    },
+    "kzhbgD": {
+      "bd": {
+        "b": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "r": null,
+        "t": null,
+        "l": null
+      }
+    },
+    "IKcP-t": {
+      "bg": {
+        "rgb": "#F7FDE8"
+      },
+      "bd": {
+        "b": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "l": null,
+        "t": null,
+        "r": null
+      }
+    },
+    "J9SojK": {
+      "bd": {
+        "b": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "t": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "r": null,
+        "l": null
+      }
+    },
+    "Fogrcr": {
+      "bg": {
+        "rgb": "#F7FDE8"
+      },
+      "bd": {
+        "b": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "t": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "l": null,
+        "r": null
+      }
+    },
+    "wzm7uC": {
+      "bd": {
+        "t": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "r": null,
+        "b": null,
+        "l": null
+      }
+    },
+    "VqrtrW": {
+      "bg": {
+        "rgb": "#F7FDE8"
+      },
+      "bd": {
+        "t": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "l": null,
+        "b": null,
+        "r": null
+      }
+    },
+    "4YlkCW": {
+      "bg": {
+        "rgb": "#F5F5F5"
+      }
+    },
+    "XvnTuH": {
+      "bg": {
+        "rgb": "#FEE1CD"
+      },
+      "bd": {
+        "t": null,
+        "l": null,
+        "b": null,
+        "r": null
+      }
+    },
+    "iRbJf3": {
+      "bg": {
+        "rgb": "#FEE1CD"
+      },
+      "bd": {
+        "r": null,
+        "t": null,
+        "b": null,
+        "l": null
+      }
+    },
+    "V01OuH": {
+      "bg": {
+        "rgb": "#FEE1CD"
+      },
+      "bd": {
+        "r": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "t": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "b": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        },
+        "l": {
+          "s": 1,
+          "cl": {
+            "rgb": "#000000"
+          }
+        }
+      }
+    }
+  },
+  "sheets": {
+    "xKIL5ygR-S9X7nducBulJ": {
+      "id": "xKIL5ygR-S9X7nducBulJ",
+      "name": "Sheet1",
+      "tabColor": "",
+      "hidden": 0,
+      "rowCount": 999,
+      "columnCount": 19,
+      "zoomRatio": 1,
+      "freeze": {
+        "xSplit": 0,
+        "ySplit": 0,
+        "startRow": -1,
+        "startColumn": -1
+      },
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "defaultColumnWidth": 88,
+      "defaultRowHeight": 24,
+      "mergeData": [],
+      "cellData": {
+        "0": {
+          "0": {},
+          "1": null,
+          "2": null,
+          "3": {},
+          "4": {
+            "s": "gwK2eL"
+          }
+        },
+        "1": {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": {}
+        },
+        "2": {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": {}
+        },
+        "3": {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": {}
+        },
+        "4": {
+          "0": null,
+          "1": null,
+          "2": {
+            "v": 1,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "3": {
+            "v": 2,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "4": {
+            "v": 3,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "5": {
+            "s": "tdsk97",
+            "f": "=SUM(C5:E5)",
+            "v": 6,
+            "t": 2
+          }
+        },
+        "5": {
+          "0": null,
+          "1": null,
+          "2": {
+            "v": 2,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "3": {
+            "v": 3,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "4": {
+            "v": 4,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "5": {
+            "s": "tdsk97",
+            "f": "=SUM(C6:E6)",
+            "si": "wDNUFs",
+            "v": 9,
+            "t": 2
+          }
+        },
+        "6": {
+          "0": {},
+          "1": null,
+          "2": {
+            "v": 3,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "3": {
+            "v": 4,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "4": {
+            "v": 5,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "5": {
+            "s": "tdsk97",
+            "si": "wDNUFs",
+            "v": 12,
+            "t": 2
+          }
+        },
+        "7": {
+          "0": {
+            "s": "gwK2eL"
+          },
+          "1": {},
+          "2": {
+            "v": 4,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "3": {
+            "v": 5,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "4": {
+            "v": 6,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "5": {
+            "s": "tdsk97",
+            "si": "wDNUFs",
+            "v": 15,
+            "t": 2
+          }
+        },
+        "8": {
+          "2": {
+            "v": 5,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "3": {
+            "v": 6,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "4": {
+            "v": 7,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "5": {
+            "s": "tdsk97",
+            "si": "wDNUFs",
+            "v": 18,
+            "t": 2
+          }
+        },
+        "9": {
+          "2": {
+            "v": 6,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "3": {
+            "v": 7,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "4": {
+            "v": 8,
+            "t": 2,
+            "s": "3ktXX9"
+          },
+          "5": {
+            "s": "tdsk97",
+            "si": "wDNUFs",
+            "v": 21,
+            "t": 2
+          }
+        },
+        "10": {
+          "2": {
+            "s": "V01OuH",
+            "f": "=SUM(C5:C10)",
+            "v": 21,
+            "t": 2
+          },
+          "3": {
+            "s": "V01OuH",
+            "f": "=SUM(D5:D10)",
+            "si": "aNroWP",
+            "v": 27,
+            "t": 2
+          },
+          "4": {
+            "s": "V01OuH",
+            "si": "aNroWP",
+            "v": 33,
+            "t": 2
+          },
+          "5": {
+            "s": "tdsk97",
+            "f": "=SUM(C5:E10)",
+            "v": 81,
+            "t": 2
+          }
+        }
+      },
+      "rowData": {
+        "0": {
+          "ah": 24
+        },
+        "1": {
+          "h": 24
+        },
+        "2": {
+          "h": 24
+        },
+        "3": {
+          "h": 24
+        },
+        "4": {
+          "h": 24,
+          "ah": 24
+        },
+        "5": {
+          "h": 24,
+          "ah": 24
+        },
+        "6": {
+          "ah": 24,
+          "h": 24
+        },
+        "7": {
+          "h": 24
+        },
+        "8": {
+          "h": 24
+        },
+        "9": {
+          "h": 24
+        },
+        "10": {
+          "h": 24,
+          "ah": 24
+        }
+      },
+      "columnData": {
+        "0": {},
+        "1": {
+          "w": 88
+        },
+        "2": {
+          "w": 88
+        },
+        "3": {
+          "w": 88
+        },
+        "4": {
+          "w": 88
+        },
+        "5": {
+          "w": 88
+        }
+      },
+      "showGridlines": 1,
+      "rowHeader": {
+        "width": 46,
+        "hidden": 0
+      },
+      "columnHeader": {
+        "height": 20,
+        "hidden": 0
+      },
+      "rightToLeft": 0
+    }
+  },
+  "resources": [
+    {
+      "name": "SHEET_RANGE_PROTECTION_PLUGIN",
+      "data": ""
+    },
+    {
+      "name": "SHEET_WORKSHEET_PROTECTION_PLUGIN",
+      "data": "{}"
+    },
+    {
+      "name": "SHEET_WORKSHEET_PROTECTION_POINT_PLUGIN",
+      "data": "{}"
+    },
+    {
+      "name": "SHEET_CONDITIONAL_FORMATTING_PLUGIN",
+      "data": ""
+    },
+    {
+      "name": "SHEET_HYPER_LINK_PLUGIN",
+      "data": "{\"xKIL5ygR-S9X7nducBulJ\":[]}"
+    },
+    {
+      "name": "SHEET_DEFINED_NAME_PLUGIN",
+      "data": ""
+    },
+    {
+      "name": "SHEET_DATA_VALIDATION_PLUGIN",
+      "data": "{\"xKIL5ygR-S9X7nducBulJ\":[]}"
+    },
+    {
+      "name": "SHEET_FILTER_PLUGIN",
+      "data": "{}"
+    },
+    {
+      "name": "SHEET_AuthzIoMockService_PLUGIN",
+      "data": "{}"
+    }
+  ]
+}
